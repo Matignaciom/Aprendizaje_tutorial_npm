@@ -90,6 +90,6 @@ Estas son solo algunas de las funcionalidades y técnicas que puedes utilizar co
 
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo!.
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
